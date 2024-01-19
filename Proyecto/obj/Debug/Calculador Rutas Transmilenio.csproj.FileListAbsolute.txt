@@ -1,0 +1,10 @@
+M:\Users\wmachuca\Documents\GitHub\calculador-rutas-transmilenio\Proyecto\bin\Debug\Calculador Rutas Transmilenio.exe.config
+M:\Users\wmachuca\Documents\GitHub\calculador-rutas-transmilenio\Proyecto\bin\Debug\Calculador Rutas Transmilenio.exe
+M:\Users\wmachuca\Documents\GitHub\calculador-rutas-transmilenio\Proyecto\bin\Debug\Calculador Rutas Transmilenio.pdb
+M:\Users\wmachuca\Documents\GitHub\calculador-rutas-transmilenio\Proyecto\obj\Debug\Calculador Rutas Transmilenio.csprojAssemblyReference.cache
+M:\Users\wmachuca\Documents\GitHub\calculador-rutas-transmilenio\Proyecto\obj\Debug\Proyecto.Principal.resources
+M:\Users\wmachuca\Documents\GitHub\calculador-rutas-transmilenio\Proyecto\obj\Debug\calculador_rutas_transmilenio.Properties.Resources.resources
+M:\Users\wmachuca\Documents\GitHub\calculador-rutas-transmilenio\Proyecto\obj\Debug\Calculador Rutas Transmilenio.csproj.GenerateResource.cache
+M:\Users\wmachuca\Documents\GitHub\calculador-rutas-transmilenio\Proyecto\obj\Debug\Calculador Rutas Transmilenio.csproj.CoreCompileInputs.cache
+M:\Users\wmachuca\Documents\GitHub\calculador-rutas-transmilenio\Proyecto\obj\Debug\Calculador Rutas Transmilenio.exe
+M:\Users\wmachuca\Documents\GitHub\calculador-rutas-transmilenio\Proyecto\obj\Debug\Calculador Rutas Transmilenio.pdb

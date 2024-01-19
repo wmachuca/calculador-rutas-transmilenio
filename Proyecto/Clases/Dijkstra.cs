@@ -67,20 +67,31 @@ namespace Proyecto.Clases
         {
             string line;
             int contador = 0;
-            using (StreamReader file = new StreamReader(@"C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Poster\matriz.txt"))
+            string rutaRelativa = @"Proyecto\Resources\DB\matriz.txt";
+            string rutaCompleta = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, rutaRelativa);
+
+            if (File.Exists(rutaCompleta))
             {
-                while ((line = file.ReadLine()) != null)
+                using (StreamReader file = new StreamReader(@"M:\Users\wmachuca\Documents\GitHub\calculador-rutas-transmilenio\Proyecto\Resources\DB\matriz.txt"))
                 {
-                    char[] delimiters = new char[] { '\t' };
-                    string[] parts = line.Split(delimiters, StringSplitOptions.RemoveEmptyEntries);
-                    for (int i = 0; i < parts.Length; i++)
+                    while ((line = file.ReadLine()) != null)
                     {
-                        costo[contador, i] = Int32.Parse(parts[i]);
+                        char[] delimiters = new char[] { '\t' };
+                        string[] parts = line.Split(delimiters, StringSplitOptions.RemoveEmptyEntries);
+                        for (int i = 0; i < parts.Length; i++)
+                        {
+                            costo[contador, i] = Int32.Parse(parts[i]);
+                        }
+                        contador++;
                     }
-                    contador++;
+                    file.Close();
                 }
-                file.Close();
+            } else
+            {
+                Console.WriteLine($"El archivo no existe en la ruta: {rutaCompleta}");
             }
+            
+                
         }
     }
 }
