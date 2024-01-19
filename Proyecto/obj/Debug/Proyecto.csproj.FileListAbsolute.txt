@@ -1,0 +1,31 @@
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario\Programacion\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario\Programacion\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario\Programacion\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.Principal.resources
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Axmer\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Axmer\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Axmer\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Axmer\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Axmer\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Axmer\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.Principal.resources
+C:\Users\Axmer\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Axmer\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Axmer\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Axmer\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Axmer\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.Principal.resources
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\wmachuca\OneDrive\Documentos\Estudio\ECCI\Seminario Tecnología\Programacion\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
