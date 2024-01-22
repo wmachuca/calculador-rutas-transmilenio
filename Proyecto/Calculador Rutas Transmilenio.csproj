@@ -90,6 +90,7 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="Resources\DB\matriz.txt" />
+    <None Include="Resources\Images\mapa.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

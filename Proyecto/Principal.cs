@@ -14,10 +14,12 @@ namespace Proyecto
     public partial class Principal : Form
     {
 
-        int estaciones = 148;
+        //TODO: Revisar numero de estaciones
+        int estaciones = 149;
         int tiempoAparicion = 125;
         
-        Estaciones estObj = new Estaciones();
+        //TODO: Cargar nuevo objeto estaciones
+        //Estaciones estObj = new Estaciones();
         Dijkstra djk;
         int origen, destino; 
 
@@ -25,10 +27,11 @@ namespace Proyecto
         {
             InitializeComponent();
             djk = new Dijkstra(this.estaciones);
-            cboOrigen.DataSource = new BindingSource(estObj.getEstaciones(), null);
+            //TODO: Cambiar listados de estaciones ordenadas
+            //cboOrigen.DataSource = new BindingSource(estObj.getEstaciones(), null);
             cboOrigen.DisplayMember = "Value";
             cboOrigen.ValueMember = "Key";
-            cboDestino.DataSource = new BindingSource(estObj.getEstaciones(), null);
+            //cboDestino.DataSource = new BindingSource(estObj.getEstaciones(), null);
             cboDestino.DisplayMember = "Value";
             cboDestino.ValueMember = "Key";
         }
@@ -64,6 +67,9 @@ namespace Proyecto
             destino = Int32.Parse(((KeyValuePair<string, string>)cboDestino.SelectedItem).Key);
             djk.calcular(origen);
             lbxCalculados.Items.Clear();
+
+            //TODO: Revisar logica de Dijkstra
+            /*
             foreach (Distancia res in djk.distancia)
             {
                 if (res.getValor() != 999)
@@ -78,6 +84,7 @@ namespace Proyecto
                 lbxCalculados.Items.Add(result);
                 loop++;
             }
+            */
             lbxCalculados.SetSelected(destino, true);
         }
 
@@ -85,15 +92,17 @@ namespace Proyecto
         {
             if (lbxCalculados.SelectedItems.Count != 0 && djk.distancia[0] != null) {
                 int seleccionado = lbxCalculados.SelectedIndex;
-                trazarRuta(seleccionado);
+                //TODO: Revisar logica de Trazado de ruta basado en las nuevas estaciones
+                // trazarRuta(seleccionado);
             }
         }
 
         private void btnSalir_Click(object sender, EventArgs e)
         {
-            System.Windows.Forms.Application.Exit();
+            Application.Exit();
         }
 
+        /*
         private void trazarRuta(int index) {
             this.limpiarEstaciones();
             bool final = false;
@@ -150,9 +159,7 @@ namespace Proyecto
                 lblResultadoTiempo.Text = "-";
                 txtResultadoParadas.AppendText("No existe ruta hasta la estacion de " + estaciones[index.ToString()]);
             }
-
-            
-
         }
+        */
     }
 }

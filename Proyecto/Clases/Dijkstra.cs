@@ -63,6 +63,7 @@ namespace Proyecto.Clases
             }
         }
 
+        //TODO: Revisar origen de datos de carga de matriz
         private void cargarMatriz()
         {
             string line;
@@ -72,7 +73,7 @@ namespace Proyecto.Clases
 
             if (File.Exists(rutaCompleta))
             {
-                using (StreamReader file = new StreamReader(@"M:\Users\wmachuca\Documents\GitHub\calculador-rutas-transmilenio\Proyecto\Resources\DB\matriz.txt"))
+                using (StreamReader file = new StreamReader(rutaCompleta))
                 {
                     while ((line = file.ReadLine()) != null)
                     {
