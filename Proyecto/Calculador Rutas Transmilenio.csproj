@@ -87,7 +87,9 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Resources\Prediction Model\" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\DB\matriz.txt" />
     <None Include="Resources\Images\mapa.jpg" />
